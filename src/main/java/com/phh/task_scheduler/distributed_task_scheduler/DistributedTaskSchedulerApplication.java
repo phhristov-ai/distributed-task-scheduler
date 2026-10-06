@@ -9,5 +9,4 @@ public class DistributedTaskSchedulerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DistributedTaskSchedulerApplication.class, args);
 	}
-
 }
